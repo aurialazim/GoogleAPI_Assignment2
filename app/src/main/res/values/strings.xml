@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleAPI_Assignment2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="getlocation">getlocation</string>
+</resources>
